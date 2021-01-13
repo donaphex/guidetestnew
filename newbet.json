@@ -19,12 +19,12 @@
 
 	"facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	"facebook_inter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-	"startAppId":"207157648",
+	"startAppId":"200168361",
 	"unityId":"3364199",
 	"unity_banner":"banner",
 	"unity_inter":"inter",
 	"unityTest":true,
-	"whichAds":1,
+	"whichAds":3,
 	"isLastPageShow":true
 
 }
