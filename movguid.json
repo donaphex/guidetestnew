@@ -24,7 +24,7 @@
 	"unity_banner":"banner",
 	"unity_inter":"inter",
 	"unityTest":false,
-	"whichAds":3,
-	"isLastPageShow":false
+	"whichAds":2,
+	"isLastPageShow":true
 
 }
