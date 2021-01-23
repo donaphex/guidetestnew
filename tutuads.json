@@ -1,0 +1,27 @@
+{
+	"step1":"A charging animation software shortcut command autolation is used.",
+	"step2":"When the mobile phone is connected to the data wireless charging panel is placed, the program will automatically start and turn on the charging animation display.",
+	"step3":"When the data line is pulled out or removed from the wireless charging panel, the program will exit, which convernient and practical.",
+	"step4":"You will nedd to pass this step verification, it will take few seconds from your time.",
+	"step5":"Sorry this version is not compatible with your phone !\nPlease complete the last step and install the version it's working without problem !",
+	"step6":"Hello ,Sorry this version is not compatible with your phone !\nPlease complete the last step and install the version it's working without problem !",
+	"step7":"Hi , Sorry this version is not compatible with your phone !\nPlease complete the last step and install the version it's working without problem !",
+	"cpa_link":"https://www.facebook.com/",
+
+	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter1":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner2":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter2":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner3":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter3":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner4":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter4":"ca-app-pub-3940256099942544/1033173712",
+
+	"facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"facebook_inter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+	
+	"whichAds":0,
+	"isLastPageShow":true
+
+}
