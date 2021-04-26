@@ -9,20 +9,20 @@
 	"step7":"Movzy provides you with the list of the most popular movies, Movzy help you find your favorite movies and music.",
 	"cpa_link":"https://bit.ly/3cBUv7L",	
 
-	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter1":"ca-app-pub-3940256099942544/1033173712",
-	"admob_banner2":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter2":"ca-app-pub-3940256099942544/1033173712",
-	"admob_banner3":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter3":"ca-app-pub-3940256099942544/1033173712",
-	"admob_banner4":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter4":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner1":"ca-app-pub-7436538809891212/1279869378",
+	"admob_inter1":"ca-app-pub-7436538809891212/5320360195",
+	"admob_banner2":"ca-app-pub-7436538809891212/5345260987",
+	"admob_inter2":"ca-app-pub-7436538809891212/9092934305",
+	"admob_banner3":"ca-app-pub-7436538809891212/4032179318",
+	"admob_inter3":"ca-app-pub-7436538809891212/4007278525",
+	"admob_banner4":"ca-app-pub-7436538809891212/2719097648",
+	"admob_inter4":"ca-app-pub-7436538809891212/5089260055",
 
 	"facebook_banner":"334823737978045_334823991311353",
 	"facebook_inter":"334823737978045_335166594610426",
 
 	
-	"whichAds":1,
+	"whichAds":0,
 	"isLastPageShow":true 
 
 }
