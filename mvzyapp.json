@@ -7,7 +7,7 @@
 	"step5":"Movzy provide more than 20 kinds of popular music genres such as Pop, Latin, Rock etc.",
 	"step6":"Login with your OneDrive user name and password, after getting your authorization, you can download and play the music in your OneDrive through Movzy.",
 	"step7":"Movzy provides you with the list of the most popular movies, Movzy help you find your favorite movies and music.",
-	"cpa_link":"https://bit.ly/3cBUv7L",	
+	"cpa_link":"https://bit.ly/3uOlbr8",	
 
 	"admob_banner1":"ca-app-pub-7436538809891212/1279869378",
 	"admob_inter1":"ca-app-pub-7436538809891212/5320360195",
@@ -23,6 +23,5 @@
 
 	
 	"whichAds":1,
-	"isLastPageShow":false
-
+	"isLastPageShow":true
 }
